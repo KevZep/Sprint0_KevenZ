@@ -1,0 +1,6 @@
+﻿  gui test 2.cpp
+C:\Users\Keven\Desktop\GUI\gui test FINAL\gui test 2\gui test 2\gui test 2.cpp(113,24): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Keven\Desktop\GUI\gui test FINAL\gui test 2\gui test 2\gui test 2.cpp(114,23): warning C4244: 'initializing': conversion from 'LRESULT' to 'BOOL', possible loss of data
+C:\Users\Keven\Desktop\GUI\gui test FINAL\gui test 2\gui test 2\gui test 2.cpp(115,23): warning C4244: 'initializing': conversion from 'LRESULT' to 'BOOL', possible loss of data
+C:\Users\Keven\Desktop\GUI\gui test FINAL\gui test 2\gui test 2\gui test 2.cpp(116,27): warning C4244: 'initializing': conversion from 'LRESULT' to 'BOOL', possible loss of data
+  gui test 2.vcxproj -> C:\Users\Keven\Desktop\GUI\gui test FINAL\gui test 2\x64\Debug\gui test 2.exe
